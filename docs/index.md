@@ -3,32 +3,32 @@ layout: respec
 title: Your Specification
 respec: >
   {
-    "name": "your-spec-short-name",
+    "name": "DID Spec CDDL",
     "status": "CG-DRAFT",
-    "latest": "https://transmute-industries.github.io/respec-github-pages/spec/latest",
-    "repository": "https://github.com/transmute-industries/respec-github-pages",
-    "issues": "https://github.com/transmute-industries/respec-github-pages/issues",
+    "latest": "https://transendx.github.io/did-core-cddl/spec/latest",
+    "repository": "https://github.com/transendx/did-core-cddl",
+    "issues": "https://github.com/transendx/did-core-cddl/issues",
     "group": {
-      "name": "Credentials Community Group",
+      "name": "Decentralized Identifers Work Group",
       "url": "https://www.w3.org/community/credentials/",
       "list": "public-credentials",
       "patentUri": "https://www.w3.org/community/about/agreements/cla/"
     },
     "editors": [
       {
-        "name": "Your Name",
+        "name": "Jonathan Holt, DO, MS",
         "url": "https://example.com",
-        "company": "Your Company",
-        "companyURL": "https://example.com"
+        "company": "TranSendX",
+        "companyURL": "https://transendx.com"
       }
     ],
     "bibliography": {
-      "RDF-DATASET-NORMALIZATION": {
+      "RFC7049": {
         "title": "RDF Dataset Normalization 1.0",
-        "href": "http://json-ld.github.io/normalization/spec/",
-        "authors": ["David Longley", "Manu Sporny"],
-        "status": "CGDRAFT",
-        "publisher": "JSON-LD Community Group"
+        "href": "https://tools.ietf.org/html/rfc7049",
+        "authors": ["C. Bormann" "P. Hoffman" ],
+        "status": "Standards Track",
+        "publisher": "Internet Engineering Task Force (IETF)"
       }
     }
   }
@@ -65,7 +65,7 @@ respec: >
 ## Markdown is Supported !
 
 <p>
-Example link to bibliography here... [[RDF-DATASET-NORMALIZATION]].
+Example link to bibliography here... [[RFC7049]].
 </p>
 
 #### Example:
