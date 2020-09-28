@@ -24,7 +24,7 @@ respec: >
     ],
     "bibliography": {
       "RFC7049": {
-        "title": "RDF Dataset Normalization 1.0",
+        "title": "Concise Binary Object Representation (CBOR)",
         "href": "https://tools.ietf.org/html/rfc7049",
         "authors": ["C. Bormann" "P. Hoffman" ],
         "status": "Standards Track",
