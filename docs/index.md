@@ -1,6 +1,6 @@
 ---
 layout: respec
-title: Your Specification
+title: Concise Data Definition Language for the DID Spec Registeries
 respec: >
   {
     "name": "DID Spec CDDL",
